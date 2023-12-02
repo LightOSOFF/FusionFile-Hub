@@ -1,4 +1,4 @@
-**# Contributing to FusionFile Hub
+# Contributing to FusionFile Hub
 
 Welcome to FusionFile Hub! We appreciate your interest in contributing to our project. Before you get started, please take a moment to read the guidelines outlined below.
 
@@ -40,7 +40,7 @@ FusionFile Hub is distributed under the GNU Affero General Public License (AGPL)
 
 ## Contact
 
-For questions, suggestions, or support, you can contact us at [maule2703@ik.me].
+For questions, suggestions, or support, you can contact us at maule2703@ik.me.
 
 Thank you for your interest and contributions to FusionFile Hub! 🚀🇮🇹
-**
+
