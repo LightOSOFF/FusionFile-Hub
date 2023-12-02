@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "*" # This wildcard (*) represents all package ecosystems
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "daily"
